@@ -15,12 +15,6 @@
 * 👯   I’m looking to collaborate on projects related to web development.
 * 🧐   Interested in full stack.
 
-### Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hiya0&layout=compact">
 </p>

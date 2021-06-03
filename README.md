@@ -9,11 +9,13 @@
   <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 * 🎓   Bachelor of Technology in Computer Science and Engineering (specialized in Cloud Computing).
-* 🌱   Currently learning Android.
+* 🔭   I’m currently working on building web apps.
+* 😀   It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++.
+* 🌱   Currently learning Android and improving my problem solving skills.
 * 👯   I’m looking to collaborate on projects related to web development.
 * 🧐   Interested in full stack.
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiya0&theme=radical" />
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hiya0&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 </p>

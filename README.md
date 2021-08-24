@@ -11,7 +11,7 @@
 * 🎓   Bachelor of Technology in Computer Science and Engineering (specialized in Cloud Computing).
 * 🔭   I’m currently working on building web apps.
 * 😀   It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++.
-* 🌱   Currently learning Android and improving my problem solving skills.
+* 🌱   Currently improving my problem solving skills.
 * 👯   I’m looking to collaborate on projects related to web development.
 * 🧐   Interested in full stack.
 
